@@ -1,4 +1,4 @@
-## Sijie Online Webpage 
+# Sijie Online Webpage 
 
 # Professional 
 ## Engineering manager, Apple, Depth Sensing Cupertino 
