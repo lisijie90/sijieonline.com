@@ -16,6 +16,8 @@
 ## Self taught Machine Learning and computer vision 
 - Coursera Deep Learning Specialization 
 - Proficient in camera model, camera calibration, epipolar geometry, triangulation etc 
+- Computer Vision projects 
+- Machine learning projects
 
 
 # Education
