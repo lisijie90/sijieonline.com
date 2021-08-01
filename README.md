@@ -13,6 +13,7 @@
   2. <a href="https://support.apple.com/en-us/HT208109" title="About Apple FaceID" target="_blank">About Apple FaceID</a>  
 - Camera module design and manufacturing 
   1. Design lead for the world's thinnest laptop camera module (at that time) and benefited tens of millions customers
+  2. Lead vendor parterners within Apple camera supply chain to meet extremely tight standard for high volume high precision manufacturing
   
 ## Self taught Machine Learning and computer vision 
 - Coursera Deep Learning Specialization 
